@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MhaWay
 - 👀 I’m interested in everything about programming and graphic
 - 🌱 I’m currently learning python, Unreal Engine and more
-- #💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, go on my site, https://www.ggally.net/Site
 
 <!---
